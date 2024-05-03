@@ -1,3 +1,3 @@
-var posts=["2024/05/02/hello-world/"];function toRandomPost(){
+var posts=["undefined/16107.html"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };
