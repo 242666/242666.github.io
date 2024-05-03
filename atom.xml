@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>大卞老师的秘密空间</title>
-  
-  
+  <title>大卞老师</title>
+  <icon>https://www.gravatar.com/avatar/357d619055d419e9dcb96a2bddf8faec</icon>
+  <subtitle>没有泪的夜晚,是天堂</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,8 +10,8 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>John Doe</name>
-    
+    <name>Spark Fly</name>
+    <email>1994589823@qq.com</email>
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
