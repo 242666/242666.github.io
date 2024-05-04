@@ -1,3 +1,5 @@
+http://example.com/tags/index.html
+http://example.com/categories/index.html
 http://example.com/fcircle/index.html
 http://example.com/json/music.json
 http://example.com/music/index.html
