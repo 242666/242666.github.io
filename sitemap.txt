@@ -1,3 +1,6 @@
+http://example.com/dailyPhoto/index.html
+http://example.com/wordScenery/index.html
+http://example.com/album/index.html
 http://example.com/air-conditioner/index.html
 http://example.com/tags/index.html
 http://example.com/categories/index.html
