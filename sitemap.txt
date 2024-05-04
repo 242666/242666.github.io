@@ -1,3 +1,4 @@
+http://example.com/undefined/0.html
 http://example.com/dailyPhoto/index.html
 http://example.com/wordScenery/index.html
 http://example.com/album/index.html
@@ -10,5 +11,4 @@ http://example.com/music/index.html
 http://example.com/about/index.html
 http://example.com/equipment/index.html
 http://example.com/link/index.html
-http://example.com/undefined/16107.html
 http://example.com/
